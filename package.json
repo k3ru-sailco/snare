@@ -1,0 +1,23 @@
+{
+  "name": "snare",
+  "version": "1.0.0",
+  "description": "This repository will serve as a resource to understand how a snare device fingerprint is created. An easy to find example of this fingerprint / the result you are looking for can be found in the payment submission request on gamestop.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k3ru-sailco/snare.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k3ru-sailco/snare/issues"
+  },
+  "homepage": "https://github.com/k3ru-sailco/snare#readme",
+  "dependencies": {
+    "node-forge": "^0.10.0"
+  }
+}
